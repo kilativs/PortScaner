@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+snxr3PO/s+5bu1K4hp+9BfEP79DVfHPw3u7I3PS4W5b+yMNEd5XNB5KfjeTq9MmZBwTW7GIpz3AU1b4L0nEDw==",
+  "success": true,
+  "projectFilePath": "D:\\Мережеве програмування\\PortScaner\\PortScaner\\PortScaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kilat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
