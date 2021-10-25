@@ -7,11 +7,11 @@
         public string RemoteAdress { get; set; }
         public string State { get; set; }
 
-        public Port(int portNumber, string local, string remote, string state)
+        public Port(int portNumber, string localAdress, string remoteAdress, string state)
         {
             PortNumber = portNumber;
-            LocalAdress = local;
-            RemoteAdress = remote;
+            LocalAdress = localAdress;
+            RemoteAdress = remoteAdress;
             State = state;
         }
     }
